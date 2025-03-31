@@ -1,0 +1,6 @@
+
+
+Cola cola = new Cola ();
+
+
+
